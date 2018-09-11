@@ -1,0 +1,90 @@
+
+/*	Name: 	Michael Anyanwu
+	Phone:	08035282263 or 08173014593
+	Email: 	michaelanyanwu41@yahoo.com
+	Track:	Web design
+*/
+
+body{
+	background-color: #fff;
+}
+
+h1 {
+	text-align: center;
+	color: #000080;
+	font-size: 64px
+}
+
+
+p.first1{
+	text-align: center;
+	color: #000080;
+	}
+
+p.first2{
+	text-align: justify;
+	color: #000080;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+	}
+
+p.first{
+	text-align: center;
+	color: #fff;
+	background-color: #000080;
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+	}
+
+.active {
+    background-color: #000080;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+
+}
+
+
+#f1{
+	color: #000080;
+}
+
+.center{
+	display: block; 
+	width: 40%;
+	height:40%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 60px;
+	float: right;
+}
+
+.center1{ 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height:100%;
+		
+}	
+   
+.center2{ 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height:50%;		
+} 
+.bab{
+	color: red;
+}
+
+span{
+	display: block;
+}
